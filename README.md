@@ -1,4 +1,3 @@
-# ALA1990sBooks
 ## ALA Most-Frequently Challenged Books Pre-2001
 Courtesy of the Internet Archive
 
